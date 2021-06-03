@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Looking-Glasse wherein is discovered the face of distraction, the cruelty of the papist, and misery of the protestant in most parts of this Kingdome : together with an exhortation to all men to be vigilant and valiant and to meet approaching mischiefe far from their own dwellings lest not able to resist it there, it breake into their houses take all away and plead law for it : also certaine eminent townes lately pillaged and plundered, do here in their owne persons, report their owne calamities and perswade all other free townes in the Kingdome by taking notice of their miseries to prevent their own ruines.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26215</idno><idno type="EEBO-CITATION">12124505</idno>
+  <idno type="VID">197020</idno>
+  <idno type="EEBO-PROQUEST">2240930526</idno>
+  
+            <idno type="STC">Wing L3039</idno>
+            <idno type="OCLC">12124505</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E88, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Looking-Glasse wherein is discovered the face of distraction, the cruelty of the papist, and misery of the protestant in most parts of this Kingdome : together with an exhortation to all men to be vigilant and valiant and to meet approaching mischiefe far from their own dwellings lest not able to resist it there, it breake into their houses take all away and plead law for it : also certaine eminent townes lately pillaged and plundered, do here in their owne persons, report their owne calamities and perswade all other free townes in the Kingdome by taking notice of their miseries to prevent their own ruines.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb. 3, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England.</term>
+               <term type="topical_term">Protestants --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197020:1"/>
+            <p>A Looking-Glasse.</p>
+            <p>VVHEREIN IS DISCO<g ref="char:EOLhyphen"/>vered the face of Distraction, the cruelty of the Papist, and misery of the Pro<g ref="char:EOLhyphen"/>testant in most parts of this Kingdome:</p>
+            <p>Together With An Exhortation to all men to be vigi<g ref="char:EOLhyphen"/>lant, and valiant, and to meet approaching mischiefe far from their own dwellings, lest not able to resist it there, it breake into their houses, take all away, and plead Law for it.</p>
+            <p>ALSO Certaine Eminent Townes lately pil<g ref="char:EOLhyphen"/>laged and plundered; Doe here in their owne Per<g ref="char:EOLhyphen"/>sons, Report their owne Calamities, and perswade all other free Townes in the Kingdome, by taking notice of their miseries, to prevent their own ruines.</p>
+            <p>London printed by <hi>G.W. Feb.</hi> 3. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:197020:2"/>
+            <head>A Looking Glasse.</head>
+            <p>
+               <seg rend="decorInit">H</seg>EE That goes about to end a Controversie, must consider the originall, lest like a bad Physitian, he hurts where he might heale. This disease that now spreads it selfe over all the kingdome, nay, over two kingdomes (and mist the third but nar<g ref="char:EOLhyphen"/>rowly) hath been growing a long time, indeed so long, and hath now got such strength in the whole Body, that the prime Do<g ref="char:EOLhyphen"/>ctors in the kingdome are pussled in the cure.</p>
+            <p>We have been here in <hi>England</hi> (of old) almost generally Pa<g ref="char:EOLhyphen"/>pists, <hi>Hinc illae lacrimae,</hi> this is the roote of all: it is a pleasant Religion, and nothing in the world so hard to part with as plea<g ref="char:EOLhyphen"/>sure, though we finde it hurtfull to us, but when it comes coun<g ref="char:EOLhyphen"/>tenanced with the highest authority, when protected with the awfull name of Religion, no wonder though it be highly affe<g ref="char:EOLhyphen"/>cted, and hardly avoided.</p>
+            <p>Now the kingdome in hope of a cure, hath taken the potion, which workes with such vehemencie, that without some sudden help from heaven, there is small hope of recoverie.</p>
+            <p>The Protestant and Papist are at this difference, the Papist will be a Protestant, but the Protestant will be no Papist; now if they would but joyne and make a medlie, the businesse were ended.</p>
+            <p>But the quarrell (as absolute as ancient) growes strong and terrible, the Protestant pleads Law, the Papist Antiquity: the
+<pb n="3" facs="tcp:197020:2"/> first goes a faire way to worke, not transcending the bounds of Justice and Conscience, the other bends all his endeavours by close plots and policies to undermine and blow up all oppositi<g ref="char:EOLhyphen"/>on, for the re-establishing of their ancient (as you call it) Ido<g ref="char:EOLhyphen"/>latry, and the utter ruine and confusion of the other; but fail<g ref="char:EOLhyphen"/>ing so long, notwithstanding so many damnable conspiracies, and projects, they have now brought it to an open War, and how they have handled their hammers in the businesse, may ea<g ref="char:EOLhyphen"/>sily appeare by the fashion of their worke.</p>
+            <p>Scotland miraculously shifting the stroke of their malice, they presently sent the devill their agent into Ireland, where he hath since bestirred himselfe, so that all men may guesse what house he came of. And lest England should rescue the Prote<g ref="char:EOLhyphen"/>stants there, and so mar their market, they have used the matter so, that we are hardly able to defend our selves at home; nay▪ they are so void, aswell of shame as grace, that they openly ex<g ref="char:EOLhyphen"/>claime against all that doe not approve of their practise, by suf<g ref="char:EOLhyphen"/>fering their throats to be cut without opposition: Neither is this all, they have conjured a multitude of deboised and igno<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt spirits with the words of Roundhead and Puritan, to side with them in the action, and so together they endeavour by pul<g ref="char:EOLhyphen"/>ling downe the whole building, to cause a generall ruine.</p>
+            <p>But alas, what's all this? This we know is done, but how have they done this? Or how doe they hope to maintaine it? O now I must be silent, and yet I cannot; In Ireland they plead an unpattern'd Authority, for their unparalel'd villany, the Kings broad Seale to kill by; but suppose that be counterfeit; here they have both his Seale and himselfe, they fight under his owne Colours and countenance, and had his Standard too, if they could have kept it.</p>
+            <p>Thus they run raging through the Countries with authority in their mouthes, and cruelty in their hearts, robbing and pilla<g ref="char:EOLhyphen"/>ging according to Law (for that they have too, as well as con<g ref="char:EOLhyphen"/>science
+<pb n="4" facs="tcp:197020:3"/> and honesty) and where they overcome, all that oppose them in protection of their Estates, are railed at and upbraided as Traytors, for fighting against their King; thus they make it Treason for honest men to keep themselves from robbing: And still in this order they lay all their Villanies upon that name that ought to stand a bar betwixt bad men and their acti<g ref="char:EOLhyphen"/>ons, and are not ashamed to make him a party in that that wee are ashamed to speake of: But lest I should seeme to know more then I doe, Ile speak lesse then I ought. The name of a King alters the course of our discourse, and turnes the current of con<g ref="char:EOLhyphen"/>ference.</p>
+            <p>Thus you see into what State these Romish Renegadoes have brought us, and by it may perceive what they further intend to doe if they be suffered; no doubt they resolve this their last bu<g ref="char:EOLhyphen"/>sinesse, they have set up their rest, put their hopes and feares in the Scale, and will either be all, or nothing.</p>
+            <p>Now though they have pillaged many of us of our goods, if they have not utterly robbed the rest of us of our braines and judgements, let us not suffer them to run on in those base courses, but rather chuse to change lives with them then Religions. O but they fight for the Protestant Religion; Yes, as theeves upon the high way fight for a Purse, to take it from us; this is the true sense of their fighting for the Protestant Religion: we still remember how this Religion was fought for at the Ile of <hi>Ree,</hi> and <hi>Rochell</hi> by our innocent Countrymen, where above 30000. poor Protestants were cousoned of their lives, a pretty peece of ser<g ref="char:EOLhyphen"/>vice; But this was done abroad and concerned another Nation; the action did indeed, but the plot reacht to <hi>London,</hi> and hath still an influence upon these actions; for if the same Religion were aimed at, what neede any fighting, why should men kill one another without cause or quarrell? But since we know their hearts, since their plots are now so apparant, their malice so open, and their mischiefe so fell, how can we be silent, why
+<pb n="5" facs="tcp:197020:3"/> should we be patient? This were the way to make us guilty of our owne ruines, and render them lesse odious; thus we should lose our fames with our lives, and leave the living in worse case then the dead. No, mischiefe must not be met with mildnesse; let us not die slaves, that were borne free men, let us accor<g ref="char:EOLhyphen"/>ding to Law and Conscience leave that to our children that was left us by our fathers, and if men love Truth, the Gospell, our Lawes, our Fames, and Freedomes, let's shew it by our actions. But our Opposites are great and many; why should we be frighted, either with their names or numbers, we ought not to consider how many, but how just they are, for might consists not in multitude, they have the greatest strength that have the ebst cause. On then brave Countrimen, take up such weapons as you have, if yee have not such as yee would, and suffer not your selves to bee co opt up in your owne Townes and houses, least the insulting enemy devoure your foode before your faces, whilst you look on and starve; leave then your ha<g ref="char:EOLhyphen"/>bitations to your wives and smalest children, if you wish their safeties, and like an inundation runne upon the Rebell; in the meane time, least you should feare a backe blow, a private rob<g ref="char:EOLhyphen"/>bery, let me tell you, there can be no danger that way, for the Popish Armies have gleaned up all the Theeves in the Coun<g ref="char:EOLhyphen"/>trie. By ventring your lives thus, there will be hope to preserve them, and spending part of your meanes, the rest will be out of danger. But why should you be intreated to secure that yee love dearest, your lives, why to defend that that preserves your lives, your estates; why, to keepe that maintaines you, your estates, your freedomes, for in the losse of one ye lose all; besides, if you betray your selves, ye betray your wives, children, and families, your kindred, friends and neighbours, and not be re<g ref="char:EOLhyphen"/>solute in defence of all is to betray all; and how will your fames come off, when it shall in the Chronicle of, this preposterous age be published, that such a Country, such and such men fell off,
+<pb n="6" facs="tcp:197020:4"/> cried craven, and turned cowards, to the dammage and danger of the whole, in such a cause as this? Is it not better that you meete death with honour, then with infamy, and to have it reported to our posterity that ye died bravely in the cause of God, and your Countrie, then cowards and betraiers? Be<g ref="char:EOLhyphen"/>sides, consider your strength, you have Truth and Religion on your sides, the Lawes and liberties, and Parliament on your sides, all good and honest men on your sides, the hope of pre<g ref="char:EOLhyphen"/>serving your lives and liberties, your estates, wives and families, and fames to all eternitie; and doubt not but you shall have God and a good conscience to attend you to the houre of death.</p>
+         </div>
+         <div type="poem">
+            <div type="part">
+               <head>Redding.</head>
+               <l>I That was lately wealthy, strong, and free,</l>
+               <l>Now want my wealth, my strength, my libertie,</l>
+               <l>And pitty too, the more's my miserie:</l>
+               <l>For having plenty, I neglected it,</l>
+               <l>And stood not to defend it as 'twas fit,</l>
+               <l>God send all honest Townes more Grace and wit.</l>
+            </div>
+            <div type="part">
+               <head>Banbury.</head>
+               <l>I Have long flourisht, plenty in my Streets</l>
+               <l>For many Ages past, hath strow'd her sweets;</l>
+               <l>But now I am undone, my goods, my Lands,</l>
+               <l>And houses too are all in hucksters hands:</l>
+               <l>Thus must I live a slave, till good men shall</l>
+               <l>Lead their assistance to redeem 'em all.</l>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:197020:4"/>
+               <head>Kingston.</head>
+               <l>MY seat is faire, my fate is fowle, alas,</l>
+               <l>Empty my houses are, where plenty was.</l>
+               <l>I (a Malignant) rudely thrust out those</l>
+               <l>That were my friends, to entertain my foes.</l>
+               <l>Now clad in naked misery I stand</l>
+               <l>A Beacon, for a warning to the Land.</l>
+            </div>
+            <div type="part">
+               <head>Brainford.</head>
+               <l>THough guilty, pardon me, for I am spent,</l>
+               <l>Left by my errour poore and penitent,</l>
+               <l>And yet am confident my name shall shine</l>
+               <l>(Proud <hi>Kingston</hi>) in a higher Spheare then thine;</l>
+               <l>For the bold Rebels that resolv'd to see</l>
+               <l>The City burnt, and Sackt, were stopt in me.</l>
+            </div>
+            <div type="part">
+               <head>Marlebrough.</head>
+               <l>YOu that are honest, have a speciall care,</l>
+               <l>And of (friend-seeming) enemies beware;</l>
+               <l>I had good strength, good courage, a good cause,</l>
+               <l>And to maintaine the Liberties and Laws</l>
+               <l>Fought stiffely, but (betray'd) I left the worke,</l>
+               <l>Gave over, and was taken by the Turke.</l>
+            </div>
+            <div type="part">
+               <head>✚ A<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ington.</head>
+               <l>THough rich my Crosse, my Crosse hath made me poore,</l>
+               <l>Though ever crost, thus never crost before:</l>
+               <l>Though long by Faith I stood and prosper'd well,</l>
+               <l>Yet now (alas) at length by Faith I fell.</l>
+               <l>Admire my Crosse then you that thinke it fit,</l>
+               <l>Ile ne're trust any more that trust in it.</l>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:197020:5"/>
+               <head>Newbury.</head>
+               <l>CAll you this Law? and must I be content,</l>
+               <l>To suffer thus for being innocent?</l>
+               <l>No, Ile complaine, the King of kings shall know</l>
+               <l>That there's no truth nor justice here below:</l>
+               <l>No shame, no grace, no pitty, all are gone,</l>
+               <l>And The every maintaines Religion?</l>
+            </div>
+            <div type="part">
+               <head>Manchester.</head>
+               <l>FRiends I am griev'd to heare of your distresse,</l>
+               <l>And yet againe am joyfull I confesse,</l>
+               <l>That yee repent as much for making way,</l>
+               <l>To others ruines as your own decay,</l>
+               <l>Through neglect, or ignorance; 'twill strike</l>
+               <l>Your neighbours Eares, and make 'em feare the like.</l>
+               <l>O had yee had my soule, yee had beene free,</l>
+               <l>And equall now in wealth and fame with me;</l>
+               <l>I doe not onely keepe my owne, but give</l>
+               <l>My neigbours freedome, strength, and meanes to live.</l>
+               <l>By mean Armie's rais'd, with which I drive</l>
+               <l>The superstitious Drones from Hive to Hive:</l>
+               <l>Had I beene carelesse, sencelesse, faithlesse, dull,</l>
+               <l>Laine still, and eate and slept my belly full,</l>
+               <l>My fame, my friends, my fortunes had beene then</l>
+               <l>Left to the mercies of Malignant men;</l>
+               <l>I had beene beggard, all my friends distrest,</l>
+               <l>And my fame lost, as deere as all the rest.</l>
+               <l>Thinke on't my friends, be warn'd by these poore Townes,</l>
+               <l>And to defend your Angells, spend your Crownes.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
